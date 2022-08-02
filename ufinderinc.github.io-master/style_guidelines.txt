@@ -1,0 +1,29 @@
+Overall Look and Feel of UFinder
+===============================
+
+Our website will have a scrolling page layout, with different sections appearing as you scroll down. We plan to have a flat website, with flat buttons and square corners.
+The website will also feature a header than contains links to each part of the website. Finally, our website will contain smooth animations.
+
+Colours
+========
+For UFinder, we plan to use cool colours, with bright ones for the text to provide contrast.
+
+We plan to mainly use rgba(52, 73, 94, 1) along with white for our website.
+
+Typography
+==========
+We will be using Poppins from Google Fonts.
+
+Links
+=====
+Links will not be underlined and will become underlined with an animation when the user hovers over them. 
+They will be on a header that stays in the same place during scrolling.
+
+
+Buttons
+=======
+Buttons will be flat designed using the chosen colors outlined above.
+
+Video
+======
+We plan to have a promotional video featured on our site. 
